@@ -1,8 +1,9 @@
-# React + Vite
+# Messenger app using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple application that simulates a messenger app that you can use to text your friends.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/412d0280-9169-469f-be64-71798bf0573c)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This fetches users from https://randomuser.me
+
+There are two chat windows; one that simulates your chat and the other simulates your friend's.
